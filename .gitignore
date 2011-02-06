@@ -5,5 +5,5 @@ obj/
 Tools/
 *.suo
 *.user
-_ReSharper.control-your-time/
+_ReSharper.mvc.internationalization/
 *.nupkg
