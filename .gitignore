@@ -1,0 +1,9 @@
+# Project #
+######################
+bin/
+obj/
+Tools/
+*.suo
+*.user
+_ReSharper.control-your-time/
+*.nupkg
