@@ -68,5 +68,14 @@ namespace mvc.internationalization.resources {
                 return ResourceManager.GetString("HelloMessage", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Set your preferred language in your browser and refresh the page (en-US or en, en-US is default).
+        /// </summary>
+        public static string MessageExplanation {
+            get {
+                return ResourceManager.GetString("MessageExplanation", resourceCulture);
+            }
+        }
     }
 }

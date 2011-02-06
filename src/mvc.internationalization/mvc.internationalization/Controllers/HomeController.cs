@@ -7,6 +7,8 @@ namespace mvc.internationalization.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = mvc.internationalization.resources.Resources.HelloMessage;
+            ViewBag.Explanation = mvc.internationalization.resources.Resources.MessageExplanation;
+
             return View();
         }
     }

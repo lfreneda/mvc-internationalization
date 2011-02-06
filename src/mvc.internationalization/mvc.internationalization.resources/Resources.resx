@@ -120,4 +120,7 @@
   <data name="HelloMessage" xml:space="preserve">
     <value>Welcome to ASP.NET MVC!</value>
   </data>
+  <data name="MessageExplanation" xml:space="preserve">
+    <value>Set your preferred language in your browser and refresh the page (en-US or en, en-US is default)</value>
+  </data>
 </root>
