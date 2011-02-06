@@ -117,25 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="EmailInvalid" xml:space="preserve">
-    <value>E-mail inválido</value>
-  </data>
-  <data name="EmailRequired" xml:space="preserve">
-    <value>E-mail requerido</value>
-  </data>
-  <data name="FavoriteNumberInvalid" xml:space="preserve">
-    <value>Necessário ser entre 0 e 100</value>
-  </data>
-  <data name="FirstNameInvalid" xml:space="preserve">
-    <value>Primeiro nome inválido</value>
-  </data>
-  <data name="FirstNameRequired" xml:space="preserve">
-    <value>Primeiro nome requerido</value>
-  </data>
-  <data name="LastNameInvalid" xml:space="preserve">
-    <value>Sobrenome inválido</value>
-  </data>
-  <data name="LastNameRequired" xml:space="preserve">
-    <value>Sobrenome requerido</value>
+  <data name="HelloMessage" xml:space="preserve">
+    <value>Bem vindo ao ASP.NET MVC!</value>
   </data>
 </root>

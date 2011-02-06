@@ -61,65 +61,11 @@ namespace mvc.internationalization.resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to E-mail is not valid.
+        ///   Looks up a localized string similar to Welcome to ASP.NET MVC!.
         /// </summary>
-        public static string EmailInvalid {
+        public static string HelloMessage {
             get {
-                return ResourceManager.GetString("EmailInvalid", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to E-mail required.
-        /// </summary>
-        public static string EmailRequired {
-            get {
-                return ResourceManager.GetString("EmailRequired", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Must be between 0 and 100.
-        /// </summary>
-        public static string FavoriteNumberInvalid {
-            get {
-                return ResourceManager.GetString("FavoriteNumberInvalid", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Must be less than 50 characters.
-        /// </summary>
-        public static string FirstNameInvalid {
-            get {
-                return ResourceManager.GetString("FirstNameInvalid", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to First Name required.
-        /// </summary>
-        public static string FirstNameRequired {
-            get {
-                return ResourceManager.GetString("FirstNameRequired", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Must be less than 50 characters.
-        /// </summary>
-        public static string LastNameInvalid {
-            get {
-                return ResourceManager.GetString("LastNameInvalid", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Last Name required.
-        /// </summary>
-        public static string LastNameRequired {
-            get {
-                return ResourceManager.GetString("LastNameRequired", resourceCulture);
+                return ResourceManager.GetString("HelloMessage", resourceCulture);
             }
         }
     }
